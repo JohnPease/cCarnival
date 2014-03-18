@@ -70,9 +70,6 @@ static GLfloat center[] = {0.0, 1.0, 0.0};
 
 void writemessage() {
     printf("\n\
-           Homework 3, John Pease jjpease@uwm.edu\n\
-           **********************************************************************\n\
-           **********************************************************************\n\
            arrow keys -------------->> change camera position\n\
            xyzXYZ ------------------>> change the location of the light\n\
            left click, right click ->> starts/stops ride\n\
